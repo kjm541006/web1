@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+  <title>정답입니다.</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h2>정답입니다!!</h2>
+</body>
+</html>
+
+ <!doctype html>
+ <html>
+ <head>
+   <title>채리 안뇽</title>
+   <meta charset="utf-8">
+ </head>
+ <body>
+   <h2>주민이가 둘중에 더 좋아하는것은?</h2>
+   <ul>
+     <li><a href="정답.html"> 피자</a></li>
+     <li><a href="오답.html"> 치킨</a></li>
+   </ul>
+ </body>
+ </html>
+
+<!doctype html>
+<html>
+<head>
+  <title>아닌뒈요.</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h1>아닌뒈요.</h1>
+</body>
+</html>
